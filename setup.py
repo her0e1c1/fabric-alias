@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 install_requires = ['fabric']
-version = '0.0.1'
+version = '0.0.2'
 name = 'fabric_alias'
 short_description = 'fabric_alias is a plugin for fabric when using fabfile.'
 long_description = """\
